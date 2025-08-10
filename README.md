@@ -1,6 +1,5 @@
 
 # a Simple Command Line Calculator 
-```
 
 Welcome to the Simple Command Line Calculator.
 
